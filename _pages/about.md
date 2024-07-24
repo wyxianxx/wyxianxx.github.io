@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-My name is Yuxian Wu（吴宇贤）and I am a senior undergraduate majoring in Computer Science and Technology at Central [China Normal University(华中师范大学)](https://www.ccnu.edu.cn/). I have a strong interest in deep learning and multimodal learning, especially in the field of computer vision. Under the guidance of [Prof. Xingpeng Jiang](http://cs.ccnu.edu.cn/info/1097/2097.htm) and [Lecture Chengji Wang](http://cs.ccnu.edu.cn/info/1097/2753.htm), I have participated in several research projects and published multiple academic papers.
+My name is Yuxian Wu（吴宇贤）and I am a senior undergraduate majoring in Computer Science and Technology at Central China Normal University([华中师范大学](https://www.ccnu.edu.cn/)). I have a strong interest in deep learning and multimodal learning, especially in the field of computer vision. Under the guidance of [Prof. Xingpeng Jiang](http://cs.ccnu.edu.cn/info/1097/2097.htm) and [Lecture Chengji Wang](http://cs.ccnu.edu.cn/info/1097/2753.htm), I have participated in several research projects and published multiple academic papers.
 
 I plan to pursue further education to strengthen my research foundation during my master's studies and eventually apply for a Ph.D. in multimodal (visual-oriented) research. My long-term goal is to work in academia or research institutions in this field.
 
