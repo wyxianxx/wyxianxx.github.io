@@ -45,7 +45,6 @@ I plan to pursue further education to strengthen my research foundation during m
 
 ### i华大网络文化工作室([Muxi Studio](https://muxi-tech.xyz/))
 **Role**: Supervisor and Backend Group Leader  
-  
 **Duration**: Nov. 2022 - Dec. 2023
 
 
