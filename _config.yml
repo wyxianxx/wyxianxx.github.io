@@ -21,7 +21,7 @@ repository               : "wyxianxx/awyxianxx.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "pig.gif"
+  avatar           : "pig.png"
   name             : "Yuxian Wu"
   pronouns         : # example: "she/her"  
   bio              : "Undergraduate students from CCNU"
