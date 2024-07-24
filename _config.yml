@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Wu Yuxian / Personal Homepage"
+title                    : "Yuxian Wu"
 title_separator          : "-"
-name                     : &name "Wu Yuxian"
+name                     : &name "Yuxian Wu"
 description              : &description "Undergraduate students from Central China Normal University"
 url                      : https://wyxianxx.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
